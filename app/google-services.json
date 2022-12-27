@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "692662917650",
+    "project_id": "fakegram-8c4a9",
+    "storage_bucket": "fakegram-8c4a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692662917650:android:765c71d1753d600f6596cb",
+        "android_client_info": {
+          "package_name": "CS330.finalProject.fakegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692662917650-0pnfgr4kk0gv40bavdfrgqmsoahvri5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "CS330.finalProject.fakegram",
+            "certificate_hash": "89bddd6c5e7cc1721e04132317853fff7f7bcd9a"
+          }
+        },
+        {
+          "client_id": "692662917650-nehmthfqunlc1ud77u25sciig646gsht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6SEcCkOkJ-vNqEgcOAICHHgb9PUQv31c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692662917650-nehmthfqunlc1ud77u25sciig646gsht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
